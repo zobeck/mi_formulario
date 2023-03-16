@@ -1,6 +1,6 @@
 # Creando nuestro primer formulario en react sin morir en el intento
 
-###Comandos importantes
+### Comandos importantes   
 Recuerda instalar [nodejs][nodejs] y npm en tu equipo antes de comenzar tu proyecto
 Una vez instalados en tu equipo puedes comenzar tu proyecto
 Recuerda ubucarte dentro de la carpeta en donde deseas que se almacene tu app
@@ -18,7 +18,7 @@ La primera vez que inicialices la app atrevete a cambiar cosas y ver que pasa
 
 
 
-###Material de consulta  
+### Material de consulta  
 [Documentación react][introReact]
 [Documentación Axios][introAxios]
 [Guía Axios Freecodecamp][guiaAxios]
