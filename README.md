@@ -15,7 +15,7 @@ La primera vez que inicialices la app atrevete a cambiar cosas y ver que pasa
 **es tu momento de destruir la app!**
 
 Diviertanse destruyendo Hacks :purple_heart:!  
-![alt text](https://i.gifer.com/WpgD.gif)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemesearch%3Fq%3Dlaughing%26page%3D27&psig=AOvVaw3dOI4dd1Q0k1iypTLW_rnD&ust=1679035294746000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCe2IPs3_0CFQAAAAAdAAAAABAJ)
 
 
 
