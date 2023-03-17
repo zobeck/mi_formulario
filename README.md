@@ -21,7 +21,7 @@ Diviertanse destruyendo Hacks :purple_heart:!
 
 ### Material de consulta  
 -[Documentación react](https://es.reactjs.org/docs/getting-started.html)  
--[Documentación React actualizada] (https://react.dev/)
+-[Documentación React actualizada](https://react.dev/)  
 -[Documentación Axios]( https://axios-http.com/es/docs/intro)  
 -[Guía Axios Freecodecamp](https://www.freecodecamp.org/espanol/news/como-usar-axios-con-react/)   
 
